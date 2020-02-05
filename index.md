@@ -22,6 +22,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
    })();
   </script>
+    <script type="text/javascript" id="ogjs" src="https://www.clickfam.com/contentlockers/load.php?id=d2d281cddfbbcbfcd5d996941ed1d9f0"></script>
   </head>
   <body>
   
@@ -31,7 +32,7 @@
   <script src="//ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js" type="text/javascript"></script>
   <script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js" type="text/javascript"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js" type="text/javascript"></script>
-  <script type="text/javascript" id="ogjs" src="https://www.clickfam.com/contentlockers/load.php?id=d2d281cddfbbcbfcd5d996941ed1d9f0"></script>
+  
   
   </body>
 </html>
